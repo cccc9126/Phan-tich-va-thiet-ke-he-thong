@@ -1,0 +1,13 @@
+<mxfile host="Electron" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/28.2.8 Chrome/140.0.7339.240 Electron/38.4.0 Safari/537.36" version="28.2.8">
+  <diagram name="Page-1" id="yejJiiLPxZYy9v0ZqnHT">
+    <mxGraphModel dx="496" dy="369" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="BbbX_HDtP9ELkHpo2YIW-1" value="&amp;nbsp;- Tên Use Case:&amp;nbsp; Đặt hàng&lt;div&gt;&amp;nbsp;- Actor:&amp;nbsp; Người dùng&lt;/div&gt;&lt;div&gt;&amp;nbsp;- Mục tiêu:&amp;nbsp; Người dùng đặt hàng để shipper và người bán hàng nhận được thông tin của đơn hàng và tiến hành các bước tiếp theo&lt;/div&gt;&lt;div&gt;&amp;nbsp;- Luồng chính:&amp;nbsp; Người dùng xem MENU&amp;nbsp; -&amp;gt;&amp;nbsp; thêm món ăn vào giỏ hàng -&amp;gt;&amp;nbsp; hệ thống kiểm tra giỏ hàng có tồn&amp;nbsp; -&amp;gt; Đặt hàng -&amp;gt; gửi thông tin đơn hàng lên hệ thống&lt;/div&gt;&lt;div&gt;&amp;nbsp;- Luồng lỗi:&amp;nbsp; Kiểm tra giỏ hàng( nếu rỗng )-&amp;gt; hiển thị thông báo( giỏ hàng không có sản phẩm nào)-&amp;gt; không thể đặt hàng&lt;br&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="150" y="160" width="370" height="370" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

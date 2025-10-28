@@ -1,0 +1,103 @@
+<mxfile host="Electron" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/28.2.8 Chrome/140.0.7339.240 Electron/38.4.0 Safari/537.36" version="28.2.8">
+  <diagram name="Page-1" id="kN6QCbJFqFsK4GojvRHx">
+    <mxGraphModel dx="1216" dy="905" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="TGNwM-UEt-tfEAwFF45T-39" value="" style="shape=table;startSize=0;container=1;collapsible=0;childLayout=tableLayout;" vertex="1" parent="1">
+          <mxGeometry x="230" y="230" width="480" height="413" as="geometry" />
+        </mxCell>
+        <mxCell id="TGNwM-UEt-tfEAwFF45T-40" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="TGNwM-UEt-tfEAwFF45T-39">
+          <mxGeometry width="480" height="84" as="geometry" />
+        </mxCell>
+        <mxCell id="TGNwM-UEt-tfEAwFF45T-41" value="ACTOR" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="TGNwM-UEt-tfEAwFF45T-40">
+          <mxGeometry width="160" height="84" as="geometry">
+            <mxRectangle width="160" height="84" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TGNwM-UEt-tfEAwFF45T-42" value="LOẠI" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="TGNwM-UEt-tfEAwFF45T-40">
+          <mxGeometry x="160" width="160" height="84" as="geometry">
+            <mxRectangle width="160" height="84" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TGNwM-UEt-tfEAwFF45T-43" value="USE CASE" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="TGNwM-UEt-tfEAwFF45T-40">
+          <mxGeometry x="320" width="160" height="84" as="geometry">
+            <mxRectangle width="160" height="84" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TGNwM-UEt-tfEAwFF45T-44" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="TGNwM-UEt-tfEAwFF45T-39">
+          <mxGeometry y="84" width="480" height="76" as="geometry" />
+        </mxCell>
+        <mxCell id="TGNwM-UEt-tfEAwFF45T-45" value="người dùng" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="TGNwM-UEt-tfEAwFF45T-44">
+          <mxGeometry width="160" height="76" as="geometry">
+            <mxRectangle width="160" height="76" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TGNwM-UEt-tfEAwFF45T-46" value="primary" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="TGNwM-UEt-tfEAwFF45T-44">
+          <mxGeometry x="160" width="160" height="76" as="geometry">
+            <mxRectangle width="160" height="76" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TGNwM-UEt-tfEAwFF45T-47" value="đăng nhập, đăng kí, đặt hàng, tìm kiếm" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="TGNwM-UEt-tfEAwFF45T-44">
+          <mxGeometry x="320" width="160" height="76" as="geometry">
+            <mxRectangle width="160" height="76" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TGNwM-UEt-tfEAwFF45T-48" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="TGNwM-UEt-tfEAwFF45T-39">
+          <mxGeometry y="160" width="480" height="84" as="geometry" />
+        </mxCell>
+        <mxCell id="TGNwM-UEt-tfEAwFF45T-49" value="shipper" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="TGNwM-UEt-tfEAwFF45T-48">
+          <mxGeometry width="160" height="84" as="geometry">
+            <mxRectangle width="160" height="84" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TGNwM-UEt-tfEAwFF45T-50" value="&lt;meta charset=&quot;utf-8&quot;&gt;&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(236, 236, 236); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;&quot;&gt;primary&lt;/span&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="TGNwM-UEt-tfEAwFF45T-48">
+          <mxGeometry x="160" width="160" height="84" as="geometry">
+            <mxRectangle width="160" height="84" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TGNwM-UEt-tfEAwFF45T-51" value="nhận đơn&amp;nbsp;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="TGNwM-UEt-tfEAwFF45T-48">
+          <mxGeometry x="320" width="160" height="84" as="geometry">
+            <mxRectangle width="160" height="84" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TGNwM-UEt-tfEAwFF45T-52" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="TGNwM-UEt-tfEAwFF45T-39">
+          <mxGeometry y="244" width="480" height="85" as="geometry" />
+        </mxCell>
+        <mxCell id="TGNwM-UEt-tfEAwFF45T-53" value="người bán hàng" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="TGNwM-UEt-tfEAwFF45T-52">
+          <mxGeometry width="160" height="85" as="geometry">
+            <mxRectangle width="160" height="85" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TGNwM-UEt-tfEAwFF45T-54" value="&lt;meta charset=&quot;utf-8&quot;&gt;&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(236, 236, 236); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;&quot;&gt;primary&lt;/span&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="TGNwM-UEt-tfEAwFF45T-52">
+          <mxGeometry x="160" width="160" height="85" as="geometry">
+            <mxRectangle width="160" height="85" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TGNwM-UEt-tfEAwFF45T-55" value="nhận đơn, tìm kiếm" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="TGNwM-UEt-tfEAwFF45T-52">
+          <mxGeometry x="320" width="160" height="85" as="geometry">
+            <mxRectangle width="160" height="85" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TGNwM-UEt-tfEAwFF45T-56" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="TGNwM-UEt-tfEAwFF45T-39">
+          <mxGeometry y="329" width="480" height="84" as="geometry" />
+        </mxCell>
+        <mxCell id="TGNwM-UEt-tfEAwFF45T-57" value="hệ thống đặt hàng" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="TGNwM-UEt-tfEAwFF45T-56">
+          <mxGeometry width="160" height="84" as="geometry">
+            <mxRectangle width="160" height="84" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TGNwM-UEt-tfEAwFF45T-58" value="secondary" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="TGNwM-UEt-tfEAwFF45T-56">
+          <mxGeometry x="160" width="160" height="84" as="geometry">
+            <mxRectangle width="160" height="84" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TGNwM-UEt-tfEAwFF45T-59" value="phân phối tài xế cho đơn hàng" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="TGNwM-UEt-tfEAwFF45T-56">
+          <mxGeometry x="320" width="160" height="84" as="geometry">
+            <mxRectangle width="160" height="84" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
