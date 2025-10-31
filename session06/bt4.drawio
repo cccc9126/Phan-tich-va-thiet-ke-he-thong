@@ -1,0 +1,29 @@
+<mxfile host="Electron" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/28.2.8 Chrome/140.0.7339.240 Electron/38.4.0 Safari/537.36" version="28.2.8">
+  <diagram name="Page-1" id="CXT_w8kwGiSLGJO2zJBI">
+    <mxGraphModel dx="1216" dy="905" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="nGnJuPzV-TweYAUljAtT-2" value="" style="shape=table;startSize=0;container=1;collapsible=0;childLayout=tableLayout;" vertex="1" parent="1">
+          <mxGeometry x="260" y="360" width="550" height="220" as="geometry" />
+        </mxCell>
+        <mxCell id="nGnJuPzV-TweYAUljAtT-3" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="nGnJuPzV-TweYAUljAtT-2">
+          <mxGeometry width="550" height="142" as="geometry" />
+        </mxCell>
+        <mxCell id="nGnJuPzV-TweYAUljAtT-4" value="1. Loại hệ thống thông tin phù hợp:&amp;nbsp;&lt;br&gt;- Cập nhật đơn hàng: (TPS):giúp quản lí và theo dõi trạng thái đơn hàng hằng ngày&lt;br&gt;-Theo dỗi trạng thái (MIS): giúp báo cáo để giám sát trạng thái đơn hàng trong suốt quá trình&lt;br&gt;- Phân tích tuyến đường (DSS): hỗ trợ đưa ra quyết định giúp tối ưu hóa tuyến đường và lập kết hoạch hiệu quả" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;align=left;" vertex="1" parent="nGnJuPzV-TweYAUljAtT-3">
+          <mxGeometry width="550" height="142" as="geometry">
+            <mxRectangle width="550" height="142" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="nGnJuPzV-TweYAUljAtT-5" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="nGnJuPzV-TweYAUljAtT-2">
+          <mxGeometry y="142" width="550" height="78" as="geometry" />
+        </mxCell>
+        <mxCell id="nGnJuPzV-TweYAUljAtT-6" value="2. Mô hình phát triển phần mềm: AGILE: vì hệ thống chưa có đẩy đủ chức năng chi tiết rõ ràng, có thể có thay đổi trong quá trình làm và thử nghiệm nên mô hình agile là phù hợp" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;align=left;" vertex="1" parent="nGnJuPzV-TweYAUljAtT-5">
+          <mxGeometry width="550" height="78" as="geometry">
+            <mxRectangle width="550" height="78" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
